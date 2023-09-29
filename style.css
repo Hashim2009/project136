@@ -1,0 +1,32 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 30px;
+    width: 90%;
+    margin: 0px;
+}
+
+#start,
+#status,
+#object_found {
+    font-size: 20px;
+}
+
+canvas {
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 8px 8px 8px navy;
+}
+
+.footer {
+    position: fixed;
+    color: seashell;
+    background-color: indigo;
+    width: 100%;
+    line-height: 2;
+    text-align: left;
+    bottom: 0;
+}
